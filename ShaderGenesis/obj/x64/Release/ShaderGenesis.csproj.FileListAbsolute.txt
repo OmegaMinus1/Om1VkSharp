@@ -1,0 +1,10 @@
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\Build\ShaderGenesis.exe.config
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\Build\ShaderGenesis.exe
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\Build\ShaderGenesis.pdb
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.Form1.resources
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.Properties.Resources.resources
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.exe
+C:\Users\Matthew\Documents\GitHub\Om1VkSharp\ShaderGenesis\obj\x64\Release\ShaderGenesis.pdb
